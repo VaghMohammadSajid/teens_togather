@@ -1,0 +1,11 @@
+teens
+.env
+db.sqlite3
+__pycache__/
+*.py[cod]
+.idea/
+.venv
+**/migrations/*
+env
+media/
+log
