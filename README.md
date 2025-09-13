@@ -23,7 +23,8 @@ The platform is built with **Django Rest Framework** and includes a modern API-f
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/VaghMohammadSajid/TeensTogether.git
+git clone https://github.com/VaghMohammadSajid/teens_togather
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
